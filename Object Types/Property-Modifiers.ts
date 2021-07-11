@@ -27,3 +27,6 @@ function doSomething(obj: SomeType) {
 
   // But we can't re-assign it.
   obj.prop = "hello";
+
+
+  //测试github push速度
